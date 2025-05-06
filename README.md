@@ -1,0 +1,2 @@
+# ThinkyfyInventory
+Inventory Managment project 
