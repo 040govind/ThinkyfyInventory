@@ -38,5 +38,5 @@ A powerful, flexible, and fully testable Java-based console application to manag
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ThinkyfyInventory.git
+git clone (https://github.com/040govind/ThinkyfyInventory.git)
 
